@@ -1,0 +1,8 @@
+
+BUILD_HOME = d:\buildkit
+SDE_HOME = "c:\arcgis\arcsde"
+SWIG = $(BUILD_HOME)\swig-1.3.28\swig.exe
+PYTHON_HOME=C:\Python24
+
+
+
